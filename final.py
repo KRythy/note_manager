@@ -1,4 +1,4 @@
-from add_list import title
+from add_list import titles
 
 note = [
 
@@ -12,7 +12,7 @@ input("Дата создания "),
 
 input("Дата изменения "),
 
-title
+titles
 
 ]
 
