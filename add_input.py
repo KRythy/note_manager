@@ -1,0 +1,6 @@
+username = input('Введите имя пользователя ')
+title = input('Введите заголовок заметки ')
+content = input('Введите описание заметки ')
+status = input('Введите статус заметки ')
+created_date = input('Дата создания заметки ')
+issue_date = input('Дата истечения заметки ')
